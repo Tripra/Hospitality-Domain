@@ -1,1 +1,1 @@
-# Hospitality-Domain
+# Revenue Insights for Hotel Industry
